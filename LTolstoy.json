@@ -1,0 +1,31 @@
+{
+  "lastname": "Tolstoy",
+  "firstname": "Leo",
+  "books": [
+    {
+      "name": "War and Peace",
+      "genre": "novel",
+      "year": 1869
+    },
+    {
+      "name": "Anna Karenina",
+      "genre": "novel",
+      "year": 1878
+    },
+    {
+      "name": "Childhood",
+      "genre": "novellas",
+      "year": 1852
+    },
+    {
+      "name": "The Decembrists",
+      "genre": "novel",
+      "year": 1884
+    },
+    {
+      "name": "Boyhood",
+      "genre": "novellas",
+      "year": 1854
+    }
+  ]
+}
